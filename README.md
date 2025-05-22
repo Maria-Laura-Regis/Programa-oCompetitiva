@@ -1,4 +1,4 @@
-## Este repositorio esta dedicado a exercicios de programação competitiva
+## Este repositório está dedicado a exercícios de programação competitiva
 
 #### Linguagens
 C++
