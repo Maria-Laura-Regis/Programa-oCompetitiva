@@ -1,6 +1,6 @@
-#### Este repositorio esta dedicado a exercicios de programação competitiva
+## Este repositorio esta dedicado a exercicios de programação competitiva
 
-## Linguagens
+#### Linguagens
 C++
 Python 
 R
